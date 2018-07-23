@@ -1,0 +1,7 @@
+nav{
+    display: block;
+}
+.nav-item{
+    justify-content: left;
+    display: block;
+}
